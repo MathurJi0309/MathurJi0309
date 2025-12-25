@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 I’m Anilesh Mathur 👨‍💻, a Software Development Engineer with ~2.5 years of experience 🚀. I build WhatsApp-integrated chat apps 💬, AI & rule-based chatbots 🤖, and scalable backend systems using Node.js, React, and Next.js ⚙️. Currently learning AI/ML 🧠 to create smarter automation solutions ✨.
 
 
